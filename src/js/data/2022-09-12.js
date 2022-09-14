@@ -122,5 +122,5 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       album: ['ST'],
     }
-  },
+  }
 ];
