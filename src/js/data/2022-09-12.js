@@ -20,10 +20,122 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
   {
     name: "Location",
-    img: "c5DqpgX.png",
+    img: "self_titled.jpg",
     opts: {
       album: ['ST'],
       stage: []
     }
-  }
+  },
+  {
+    name: "Magnolia",
+    img: "self_titled.jpg",
+    opts: {
+      album: ['ST'],
+      stage: []
+    }
+  },
+  {
+    name: "Lookin",
+    img: "self_titled.jpg",
+    opts: {
+      album: ['ST'],
+      stage: []
+    }
+  },
+  {
+    name: "wokeuplikethis*",
+    img: "self_titled.jpg",
+    opts: {
+      album: ['ST'],
+      stage: []
+    }
+  },
+  {
+    name: "Let It Go",
+    img: "self_titled.jpg",
+    opts: {
+      album: ['ST'],
+      stage: []
+    }
+  },
+  {
+    name: "Half & Half",
+    img: "self_titled.jpg",
+    opts: {
+      album: ['ST'],
+      stage: []
+    }
+  },
+  {
+    name: "New Choppa",
+    img: "self_titled.jpg",
+    opts: {
+      album: ['ST'],
+      stage: []
+    }
+  },
+  {
+    name: "Other Shit",
+    img: "self_titled.jpg",
+    opts: {
+      album: ['ST'],
+      stage: []
+    }
+  },
+  {
+    name: "NO.9",
+    img: "self_titled.jpg",
+    opts: {
+      album: ['ST'],
+      stage: []
+    }
+  },
+  {
+    name: "dothatshit!",
+    img: "self_titled.jpg",
+    opts: {
+      album: ['ST'],
+      stage: []
+    }
+  },
+  {
+    name: "Lame N*gg*z",
+    img: "self_titled.jpg",
+    opts: {
+      album: ['ST'],
+      stage: []
+    }
+  },
+  {
+    name: "Yah Mean",
+    img: "self_titled.jpg",
+    opts: {
+      album: ['ST'],
+      stage: []
+    }
+  },
+  {
+    name: "Flex",
+    img: "self_titled.jpg",
+    opts: {
+      album: ['ST'],
+      stage: []
+    }
+  },
+  {
+    name: "Kelly K",
+    img: "self_titled.jpg",
+    opts: {
+      album: ['ST'],
+      stage: []
+    }
+  },
+  {
+    name: "Had 2",
+    img: "self_titled.jpg",
+    opts: {
+      album: ['ST'],
+      stage: []
+    }
+  },
 ];
