@@ -4,7 +4,7 @@ dataSet[dataSetVersion] = {};
 dataSet[dataSetVersion].options = [
   {
     name: "Filter by Album/Type",
-    key: "series",
+    key: "album",
     tooltip: "Check this to restrict to certain albums or singles/leaks.",
     checked: false,
     sub: [
@@ -23,7 +23,6 @@ dataSet[dataSetVersion].characterData = [
     img: "self_titled.jpg",
     opts: {
       album: ['ST'],
-      stage: []
     }
   },
   {
@@ -31,7 +30,6 @@ dataSet[dataSetVersion].characterData = [
     img: "self_titled.jpg",
     opts: {
       album: ['ST'],
-      stage: []
     }
   },
   {
@@ -39,7 +37,6 @@ dataSet[dataSetVersion].characterData = [
     img: "self_titled.jpg",
     opts: {
       album: ['ST'],
-      stage: []
     }
   },
   {
@@ -47,7 +44,6 @@ dataSet[dataSetVersion].characterData = [
     img: "self_titled.jpg",
     opts: {
       album: ['ST'],
-      stage: []
     }
   },
   {
@@ -55,7 +51,6 @@ dataSet[dataSetVersion].characterData = [
     img: "self_titled.jpg",
     opts: {
       album: ['ST'],
-      stage: []
     }
   },
   {
@@ -63,7 +58,6 @@ dataSet[dataSetVersion].characterData = [
     img: "self_titled.jpg",
     opts: {
       album: ['ST'],
-      stage: []
     }
   },
   {
@@ -71,7 +65,6 @@ dataSet[dataSetVersion].characterData = [
     img: "self_titled.jpg",
     opts: {
       album: ['ST'],
-      stage: []
     }
   },
   {
@@ -79,7 +72,6 @@ dataSet[dataSetVersion].characterData = [
     img: "self_titled.jpg",
     opts: {
       album: ['ST'],
-      stage: []
     }
   },
   {
@@ -87,7 +79,6 @@ dataSet[dataSetVersion].characterData = [
     img: "self_titled.jpg",
     opts: {
       album: ['ST'],
-      stage: []
     }
   },
   {
@@ -95,7 +86,6 @@ dataSet[dataSetVersion].characterData = [
     img: "self_titled.jpg",
     opts: {
       album: ['ST'],
-      stage: []
     }
   },
   {
@@ -103,7 +93,6 @@ dataSet[dataSetVersion].characterData = [
     img: "self_titled.jpg",
     opts: {
       album: ['ST'],
-      stage: []
     }
   },
   {
@@ -111,7 +100,6 @@ dataSet[dataSetVersion].characterData = [
     img: "self_titled.jpg",
     opts: {
       album: ['ST'],
-      stage: []
     }
   },
   {
@@ -119,7 +107,6 @@ dataSet[dataSetVersion].characterData = [
     img: "self_titled.jpg",
     opts: {
       album: ['ST'],
-      stage: []
     }
   },
   {
@@ -127,7 +114,6 @@ dataSet[dataSetVersion].characterData = [
     img: "self_titled.jpg",
     opts: {
       album: ['ST'],
-      stage: []
     }
   },
   {
@@ -135,7 +121,6 @@ dataSet[dataSetVersion].characterData = [
     img: "self_titled.jpg",
     opts: {
       album: ['ST'],
-      stage: []
     }
   },
 ];
